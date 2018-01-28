@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RA List</string>
+
+    <string-array name="raNames">
+        <item>Lilo</item>
+        <item>Stitch</item>
+        <item>Belle</item>
+        <item>Jasmine</item>
+        <item>Jafar</item>
+        <item>Aladin</item>
+        <item>Moana</item>
+        <item>Maui</item>
+        <item>Elsa</item>
+        <item>Anna</item>
+        <item>Ariel</item>
+        <item>Mulan</item>
+        <item>Merida</item>
+        <item>Judy</item>
+    </string-array>
+
+    <string-array name="dutyDay">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+</resources>
